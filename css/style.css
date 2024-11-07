@@ -1,0 +1,33 @@
+body {
+    background: rgb(188,235,175);
+    background: linear-gradient(90deg, rgba(188,235,175,1) 0%, rgba(126,219,218,1) 100%);
+}
+    
+.fonte1 {
+    font-family: Apple Chancery, cursive;
+    font-style: oblique;
+}
+
+.fundo {
+   background-color: rgba(13, 85, 4, 0.527); 
+   color: white;
+}
+
+#t1 {
+    text-decoration: underline overline;
+    color:rgb(22, 122, 8)
+}
+
+#nosifer-regular {
+    font-family: "Nosifer", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+a[href="https://github.com/GabrielB2101"] {
+    background-color: rgb(107, 197, 196);
+}
+
+a:hover {
+    color: rgb(255, 0, 255);
+}
